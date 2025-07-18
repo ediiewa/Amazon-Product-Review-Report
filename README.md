@@ -1,15 +1,17 @@
 # Amazon-Product-Review-Report
-You are working as a Junior Data Analyst at RetailTech Insights, a company that provides
-e-commerce analytics solutions to sellers on platforms like Amazon. Your team has been
-tasked with analysing product and customer review data to generate insights that can
+Amazon is a well known company that provides outlets for consumer goods.
+The task is to analyse products and customer review data to generate insights that can
 guide product improvement, marketing strategies, and customer engagement.
-2. Dataset Description
-The dataset contains information scraped from Amazon product pages, including:
+## Dataset Description
 The dataset contains information scraped from Amazon product pages, including:
 • Product details: name, category, price, discount, and ratings
 • Customer engagement: user reviews, titles, and content
 • Each row represents a unique product, with aggregated reviewer data
-stored as comma-separated values
+
 Total Records: 1,465 rows
 TotalFields: 16 columns
-3. Analysis Tasks
+
+Amazon Raw Data File [ Amazon case study.xlx ]
+Amazon Cleaned data flle (https://github.com/user-attachments/files/21323149/Amazon.case.study.xlsx)
+
+ Using Microsoft excel to clean the data and do the analysis, the following results were obtained [Amazon case study Edi.xlsx](https://github.com/user-attachments/files/21323162/Amazon.case.study.Edi.xlsx)
