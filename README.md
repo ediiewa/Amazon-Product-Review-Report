@@ -20,3 +20,11 @@ Amazon Cleaned data flle (https://github.com/user-attachments/files/21323149/Ama
 [Amazon case study Edi - Copy.xlsx](https://github.com/user-attachments/files/21323289/Amazon.case.study.Edi.-.Copy.xlsx)
 [Amazon case study 1.xlsx](https://github.com/user-attachments/files/21323288/Amazon.case.study.1.xlsx)
 [Amazon case study.xlsx](https://github.com/user-attachments/files/21323287/Amazon.case.study.xlsx)
+
+												
+												
+<img width="1645" height="831" alt="image" src="https://github.com/user-attachments/assets/bc15199e-eedf-4b0a-b338-a977cb2ed32e" />
+
+
+
+
