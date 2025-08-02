@@ -11,19 +11,25 @@ The dataset contains information scraped from Amazon product pages, including:
 Total Records: 1,465 rows
 TotalFields: 16 columns
 
-Amazon Raw Data File [ Amazon case study.xlx ]
-Amazon Cleaned data flle (https://github.com/user-attachments/files/21323149/Amazon.case.study.xlsx)
+Amazon Raw Data File [ Amazon Case  Study Data Set ]
 
- Using Microsoft excel to clean the data and do the analysis, the following results were obtained [Amazon case study Edi.xlsx](https://github.com/user-attachments/files/21323162/Amazon.case.study.Edi.xlsx)
+ Using Microsoft excel, the data set was cleaned.
+ 
+ 
+ 
+ to clean the data and do the analysis, the following results were obtained [Amazon case study Edi.xlsx](https://github.com/user-attachments/files/21323162/Amazon.case.study.Edi.xlsx)
 
 
 [Amazon case study Edi - Copy.xlsx](https://github.com/user-attachments/files/21323289/Amazon.case.study.Edi.-.Copy.xlsx)
-[Amazon case study 1.xlsx](https://github.com/user-attachments/files/21323288/Amazon.case.study.1.xlsx)
+
 [Amazon case study.xlsx](https://github.com/user-attachments/files/21323287/Amazon.case.study.xlsx)
 
 												
 												
-<img width="1645" height="831" alt="image" src="https://github.com/user-attachments/assets/bc15199e-eedf-4b0a-b338-a977cb2ed32e" />
+POTENTIAL REVENUE 			113,643,736,203		PRODUCT CATEGORIES			9		NO. OF PRODUCTS		1351
+<img width="1125" height="511" alt="image" src="https://github.com/user-attachments/assets/14607e50-0b68-48a6-bf66-96f6d8dd14c0" />
+												
+												
 
 
 
