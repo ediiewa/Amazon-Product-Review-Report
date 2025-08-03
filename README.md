@@ -30,12 +30,13 @@ A Microsoft Excell work book with Pivot tables and model are attached.
 ### Sample Pivot Tables
 <img width="1898" height="1111" alt="image" src="https://github.com/user-attachments/assets/f572b8f9-7e78-48bd-b115-5b359a00c835" />
 												
-		
-<img width="1125" height="511" alt="image" src="https://github.com/user-attachments/assets/14607e50-0b68-48a6-bf66-96f6d8dd14c0" />
+## Models		
+<img width="1769" height="804" alt="image" src="https://github.com/user-attachments/assets/cf7d511e-034c-4c9e-b695-ce8a5e37c745" />
+
 												
 												
 ## Conclusion
-Out of 1465 rows of products with 16 columns records, the record came down to 1351 after cleaning showing 1007 products receiving over 4 point review while 334 items received 3 point review. the rest received less than 10 points review.
+Out of 1,465 rows of products with 16 columns records, the record came down to 1351 after cleaning showing 1,007 products receiving over 4 point review while 334 items received 3 point review. The rest received less than 10 reviews.
 Please see visualisation for the rest of the work.
 
 
