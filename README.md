@@ -23,17 +23,19 @@ The data was inpected and cleaned. Blank rows,columns and unneccessary columns w
 After cleaning the data to carry out the analysis, the following table was obtained [Amazon case study Edi.xlsx](https://github.com/user-attachments/files/21323162/Amazon.case.study.Edi.xlsx)
 
 
-[Amazon case study Edi - Copy.xlsx](https://github.com/user-attachments/files/21323289/Amazon.case.study.Edi.-.Copy.xlsx)
+A Microsoft Excell work book with Pivot tables and model are attached.
 
-[Amazon case study.xlsx](https://github.com/user-attachments/files/21323287/Amazon.case.study.xlsx)
+[Amazon case study Edi.xlsx](https://github.com/user-attachments/files/21568093/Amazon.case.study.Edi.xlsx)
 
+### Sample Pivot Tables
+<img width="1898" height="1111" alt="image" src="https://github.com/user-attachments/assets/f572b8f9-7e78-48bd-b115-5b359a00c835" />
 												
-												
-POTENTIAL REVENUE 			113,643,736,203		PRODUCT CATEGORIES			9		NO. OF PRODUCTS		1351
+		
 <img width="1125" height="511" alt="image" src="https://github.com/user-attachments/assets/14607e50-0b68-48a6-bf66-96f6d8dd14c0" />
 												
 												
-
-
+## Conclusion
+Out of 1465 rows of products with 16 columns records, the record came down to 1351 after cleaning showing 1007 products receiving over 4 point review while 334 items received 3 point review. the rest received less than 10 points review.
+Please see visualisation for the rest of the work.
 
 
