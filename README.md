@@ -31,7 +31,8 @@ A Microsoft Excell work book with Pivot tables and model are attached.
 <img width="1898" height="1111" alt="image" src="https://github.com/user-attachments/assets/f572b8f9-7e78-48bd-b115-5b359a00c835" />
 												
 ## Models		
-<img width="1769" height="804" alt="image" src="https://github.com/user-attachments/assets/cf7d511e-034c-4c9e-b695-ce8a5e37c745" />
+<img width="1769" height="804" alt="image" src="https://github.com/user-attachments/assets/c497375c-7a8c-41c9-82ec-082ecb68f333" />
+
 
 												
 												
