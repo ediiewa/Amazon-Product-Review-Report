@@ -1,4 +1,5 @@
 # Amazon-Product-Review-Report
+## Introduction
 Amazon is a well known company that provides outlets for consumer goods.
 The task is to analyse products and customer review data to generate insights that can
 guide product improvement, marketing strategies, and customer engagement.
@@ -11,13 +12,15 @@ The dataset contains information scraped from Amazon product pages, including:
 Total Records: 1,465 rows
 TotalFields: 16 columns
 
-Amazon Raw Data File [ Amazon Case  Study Data Set ]
+## Amazon Raw Data File 
+Please see the attached Amazon raw data file [Amazon case study data set.xlsx](https://github.com/user-attachments/files/21567982/Amazon.case.study.data.set.xlsx)
+
+## Data Cleaning
+The data was inpected and cleaned. Blank rows,columns and unneccessary columns were deleted.
 
  Using Microsoft excel, the data set was cleaned.
  
- 
- 
- to clean the data and do the analysis, the following results were obtained [Amazon case study Edi.xlsx](https://github.com/user-attachments/files/21323162/Amazon.case.study.Edi.xlsx)
+After cleaning the data to carry out the analysis, the following table was obtained [Amazon case study Edi.xlsx](https://github.com/user-attachments/files/21323162/Amazon.case.study.Edi.xlsx)
 
 
 [Amazon case study Edi - Copy.xlsx](https://github.com/user-attachments/files/21323289/Amazon.case.study.Edi.-.Copy.xlsx)
